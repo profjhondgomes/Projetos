@@ -1,0 +1,23 @@
+body { 
+    background-color: aqua;
+}
+h1 {
+    align-content: center;
+    color:brown;
+    background-color: blueviolet;
+    width:100%
+    }
+h2 {
+    color:blue;
+}
+p {
+    color:rgb(0, 0, 0);
+    font-size: 15px;
+}
+#imagem {
+    margin-line: 0px;
+    align-content: end;
+    position: absolute;
+    height: 30%;
+    float: left;
+}
